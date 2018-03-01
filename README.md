@@ -5,4 +5,4 @@
 - gridレイアウトを用いたモダンブラウザ向けのレンダリング。
 - CSSのクラスを1つ変えるだけで先後逆からの図面になる。
 
-![スクリーンショット](https://github.com/tibigame/Shogi-Kyokumen-CSS/blob/master/screen_shot.png)
+![スクリーンショット](https://github.com/tibigame/Shogi-Kyokumen-CSS/blob/master/screenshot.png)
